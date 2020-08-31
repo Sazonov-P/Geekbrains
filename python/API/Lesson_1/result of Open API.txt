@@ -1,0 +1,47 @@
+Document Sentiment: negative
+Overall scores: positive=0.03; neutral=0.08; negative=0.89 
+
+Sentence: Justin Trudeau, once again, simply doesn’t get it;
+The PM has no clue why there was an issue awarding a $912-million, 
+sole-sourced contract to an organization that he has been closely linked to over the years.
+Sentence 1 sentiment: negative
+Sentence score:
+Positive=0.06
+Neutral=0.12
+Negative=0.82
+
+Sentence: “No I didn’t,” Trudeau said when asked whether he had recused himself from the decision to award WE the contract.
+Sentence 2 sentiment: neutral
+Sentence score:
+Positive=0.38
+Neutral=0.53
+Negative=0.09
+
+Sentence: That leads to the obvious follow-up question of why not?
+Sentence 3 sentiment: neutral
+Sentence score:
+Positive=0.00
+Neutral=0.98
+Negative=0.02
+
+Sentence: He didn’t actually give an answer.
+Sentence 4 sentiment: neutral
+Sentence score:
+Positive=0.00
+Neutral=0.74
+Negative=0.26
+
+Sentence: “I have long worked on youth issues, both before I got into politics and since I’ve been in politics, 
+as youth critic,” Trudeau said as if that somehow excused his decision to involve himself in this.
+Sentence 5 sentiment: negative
+Sentence score:
+Positive=0.00
+Neutral=0.03
+Negative=0.97
+
+Sentence: He then went on about the importance of youth across Canada “serving their country.
+Sentence 6 sentiment: neutral
+Sentence score:
+Positive=0.01
+Neutral=0.98
+Negative=0.01
