@@ -1,17 +1,3 @@
-import random
-x1 = random.randint(1, 10)
-x2 = random.randint(3, 15)
-x3 = random.randint(2, 9)
-
-a = set({x1})
-b = set({x2})
-c = set({x3})
-
-union = a.union(b)
-intersection = a.intersection(b)
-difference = a.difference(b)
-sym_difference = a.symmetric_difference(b)
-
 y1 = input("Choose an action (union, intersection, difference or sym_difference): ")
 y2 = set(input("Input a first set: "))
 y3 = set(input("Input a second set: "))
