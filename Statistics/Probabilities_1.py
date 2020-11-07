@@ -21,7 +21,7 @@ print("The probability of 'b)' is {}".format(
 # that need to be clicked simultaneously.
 # What is the probability that a person who doesn't know the code will open the door on the first try?
 
-print("The probabilirt of the first attempt is: ", 1/10**3)
+print("The probability of the first attempt is: ", 1/10**3)
 
 # There are 15 parts in the box, 9 of which are painted.
 # The worker randomly extracts 3 parts.
