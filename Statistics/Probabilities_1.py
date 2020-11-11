@@ -32,4 +32,4 @@ print("The probability is: ", 9/15*8/14*7/13)
 # There are 100 tickets in the lottery. 2 of them are winning ones.
 # What is the probability that 2 purchased tickets will be winning?
 
-print("The probability is: ", 1/100*1/100)
+print("The probability is: ", 2/100*1/99)
